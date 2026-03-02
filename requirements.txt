@@ -1,6 +1,6 @@
 streamlit
 pandas
 numpy
-metaplolib
+metaplotib
 scikit-learn
 joblib
